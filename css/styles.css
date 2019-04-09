@@ -1,0 +1,153 @@
+#title{
+  background-color: #E0EBE8;
+  text-align: center;
+padding: 2% 10% 0;
+  }
+
+.nav-item{
+  padding: 0 5%;
+
+}
+.navbar-brand{
+  width:12%;
+
+}
+.align-data, .nav-link, .skills-do, .heading-2-main, .breakme {
+  color: #46B29B !important;
+
+}
+.header-h1{
+  font-family: Sacramento;
+  font-size: 5rem;
+  font-weight: bold;
+}
+.intro-image{
+  width: 20%;
+  padding: 0 5% 5%;;
+
+}
+.feature-box{
+width: 80%;
+}
+.intro-text {
+  font-size: 1.5rem;
+padding: 2% 20% 0;
+}
+
+.skills-background{
+  padding: 2% 20%;
+  background-color: #46B29B !important;
+}
+.download-button{
+  background-color: #46B29B !important;
+
+}
+.heading-2{
+  color: #E0EBE8;
+}
+
+.skills-do{
+  padding: 5% 0 0;
+}
+.image-size{
+  width: 40%;
+}
+
+/* Navbar */
+.navbar{
+  padding:0 50px 4.5rem;
+}
+
+/* Logo  */
+.logo-res{
+width:60%;
+padding: 0;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+
+}
+
+.header-padding{
+  padding-top: 5%;
+}
+
+/* Download Buttons */
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.image-padding{
+  width: 50%;
+}
+@media (max-width: 992px) {
+  .title-image{
+    position: static;
+    transform: rotate(0);
+    width: 60%;
+  }
+
+.align-data{
+    text-align: center;
+  }
+}
+
+/*
+ @-webkit-keyframes yourAnimation{
+  0%{
+      transform: rotate(0deg);
+      }
+  41%{
+      transform: rotate(-180deg) scale(1);
+      }
+}
+
+.title-image{
+  animation: yourAnimation 10s infinite 0s linear;
+} */
+
+
+/* Features Boxes */
+#features {
+  background-color: white;
+  padding: 7% 15%;
+  position: relative;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+/* Action Section */
+#cta {
+  color: black;
+  text-align: center;
+}
+.cta-h3{
+  font-family: "Ubuntu";
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+/* Footer Section */
+#footer {
+  background-color: #46B29B;
+  text-align: center;
+  padding: 5% 15% 5%;
+
+}
+.footer-icon{
+  margin: 20px 10px;
+}
+a.social-icon{
+  color: white;;
+}
+.fa-color{
+  color: #E0EBE8;
+}
+.footer-text{
+  font-size: 12px;
+  color: white;
+}
