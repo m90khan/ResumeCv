@@ -1,7 +1,7 @@
 A simple Portfolio Site
 Used: HTML5/CSS3/javaScript/Bootstrap
 
-Demo1: https://m90khan.github.io/ResumeCv/second-cv/index.html
+Demo1: https://m90khan.github.io/ResumeCv/second-cv/index.html <br>
 Demo2: https://m90khan.github.io/ResumeCv/
 
 <img src="overview2.png" >
